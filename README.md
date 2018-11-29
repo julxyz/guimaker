@@ -1,16 +1,8 @@
 # guimaker
 A Tkinter code generator (py)
 
-Features :  -Buttons (
-                -Name
-                -Text
-                -Command
-                -Relief (help with gui thx)
-                -Colors
-                )
+changelog : v0.11 - added Buttons (colors, name , text, command/method, relief)
 
-Planned :   -Entrys (
-                -Name
-                -Labels
-                -Text alignment
-                )
+                  - added exporting (exports finished code into code.txt)
+
+            v0.12 - added Entrys (relief, align, name, colors)
