@@ -1,2 +1,2 @@
-# guymaker
+# guimaker
 A Tkinter Code generator (py)
