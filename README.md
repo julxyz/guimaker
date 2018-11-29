@@ -11,8 +11,8 @@ changelog:
 
 coming :
 
-            - Labels for Entrys
+                   - Labels for Entrys
             
-            - Frames
+                   - Frames
             
-            - Grid mode (planned but far away)
+                   - Grid mode (planned but far away)
