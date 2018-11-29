@@ -8,3 +8,11 @@ changelog:
                    - added exporting (exports finished code into code.txt)
 
              v0.12 - added Entrys (relief, align, name, colors)
+
+coming :
+
+            - Labels for Entrys
+            
+            - Frames
+            
+            - Grid mode (planned but far away)
