@@ -1,7 +1,9 @@
 # guimaker
 A Tkinter code generator (py)
 
-changelog    v0.11 - added Buttons (colors, name , text, command/method, relief)
+changelog
+
+             v0.11 - added Buttons (colors, name , text, command/method, relief)
 
                    - added exporting (exports finished code into code.txt)
 
