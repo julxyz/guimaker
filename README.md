@@ -1,14 +1,16 @@
 # guimaker
 A Tkinter code generator (py)
 
-Features :  -Buttons (wow)
+Features :  -Buttons (
                 -Name
                 -Text
                 -Command
                 -Relief (help with gui thx)
                 -Colors
+                )
 
-Planned :   -Entrys
+Planned :   -Entrys (
                 -Name
                 -Labels
                 -Text alignment
+                )
