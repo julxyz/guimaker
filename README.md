@@ -1,7 +1,7 @@
 # guimaker
 A Tkinter code generator (py)
 
-#it's really not gud (kind of the first thing I made in python...)
+# it's really not gud (kind of the first thing I made in python...)
 
 changelog:
 
