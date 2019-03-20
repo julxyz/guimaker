@@ -1,6 +1,8 @@
 # guimaker
 A Tkinter code generator (py)
 
+#it's really not gud (kind of the first thing I made in python...)
+
 changelog:
 
              v0.11 - added Buttons (colors, name , text, command/method, relief)
